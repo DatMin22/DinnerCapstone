@@ -76,13 +76,35 @@ html,
 .dark#myBody .feature__item p {
     color: #eee;
 }
-.dark#myBody .categories {
-    background-color: #282828;
+.dark#myBody .categories,
+.dark#myBody .w3l-blogposts {
+    background-color: #232220;
 }
 .dark#myBody .feature__item {
-    background-color: #000;
+    background-color: #232220;
     border: 0.1px solid #eeeeee46;
 }
+.dark#myBody #stats .HPStats .counter{
+    background-color: #232220;
+}
+.dark#myBody #stats .counterNum,
+.dark#myBody #stats p,
+.dark#myBody .title-w3l,
+.dark#myBody .blog-desc,
+.dark#myBody .url,
+.dark#myBody .read,
+.dark#myBody q,
+.dark#myBody h3
+{
+    color: #fff;
+}
+.dark#myBody p{
+    color: #eee;
+}
+.dark#myBody .new-block{
+    background-color: #232220;
+}
+
 
 /* ------------------- */
 .title h6 {
